@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/978-3-032-38091-3_55
+  title: "Spatially-Aware Graph Geometric Representation for\_Lung Nodules Detection"
+  authors:
+  - "Luis Guayac\xE1n"
+  - Santiago Leal
+  - "Diego Pati\xF1o"
+  - Fabio Martinez
+  publisher: Lecture Notes in Computer Science
+  date: '2026-09-25'
+  link: https://doi.org/hck8fx
+  orcid: 0000-0003-4808-8411
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-3-031-78447-7_20
   title: "Enhancing Object Detection by\_Leveraging Large Language Models for\_Contextual\
     \ Knowledge"

@@ -5,6 +5,6 @@
 
   # primal-lab's Website
 
-  Visit **[primal-lab.github.io/primal-lab-website](https://primal-lab.github.io/primal-lab-website)** 🚀
+  Visit **[primal-lab.github.io](https://primal-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
